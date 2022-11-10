@@ -1,0 +1,62 @@
+#nabvar{
+    background-color:rgb(109, 87, 236);
+    font-family: fantasy;
+    color:brown;
+}
+#logo{
+    border-radius: 100px;
+}
+.titulo{
+    font-family: 'Times New Roman', Times, serif;
+    color: cadetblue;
+    
+}
+
+#caja2{
+    float: left;
+
+}
+.textInicio{
+    text-align: left;
+    color: rgb(97, 97, 97);
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+#letras{
+    color: brown;
+}
+.boton{
+    background-color: rgb(240, 145, 208);
+    border: 0px;
+    color: aquamarine;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    border-radius: 50%;
+}
+/* <td></router-link>
+    <button class="boton" v-on:click="eliminar_vengador(index)">Eliminar</button></td>*/
+.card-text{
+    text-align: left;
+    border:2px dotted rgb(116, 215, 136);
+    color: rgb(104, 104, 246);
+}
+.card{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.card-title{
+    font-size: larger;
+    color: rgb(47, 33, 242);
+
+}
+#vengador{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(60, 60, 221);
+}
+#villano{
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(60, 60, 221);
+}
+.contacto{
+    font-family:cursive;
+    color: rgb(60, 60, 221);
+}

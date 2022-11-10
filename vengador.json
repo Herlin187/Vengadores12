@@ -1,0 +1,13 @@
+{
+	"vengador": [
+		{
+			"nombres": "Peter",
+			"apellidos": "Parker",
+			"telefono": "35187917",
+			"superPoder": "Sentido Aracnido",
+			"nombreSuperheroe": "SpiderMan",
+			"trabajoActual": "Limpia Vidrios",
+			"Email": "spiderman@vengadores.com"
+		}
+	]
+}
